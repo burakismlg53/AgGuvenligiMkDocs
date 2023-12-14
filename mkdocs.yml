@@ -1,0 +1,7 @@
+site_name: Burak İsmailoğlu
+nav:
+  - Anasayfa: index.md
+  - Fiziksel Güvenlik: fiziksel-guvenlik.md
+  - Yazılımsal Güvenlik: yazilimsal-guvenlik.md
+  - Ağ Güvenliği: ag-guvenligi.md
+  - Veri Güvenliği ve Gizliliği: veri-guvenligi-ve-gizliligi.md
